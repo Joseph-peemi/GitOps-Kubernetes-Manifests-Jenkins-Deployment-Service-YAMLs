@@ -63,8 +63,6 @@ Trigger the Jenkins job with the parameter:
 ```bash
 kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
-Prerequisites
-
 
 Prerequisites
 
